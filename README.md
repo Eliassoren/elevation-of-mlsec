@@ -15,7 +15,7 @@ To anyone curious about how the risk frameworks are mapped to our cards and appl
 ## Available versions
 
 - There is a digital version published by TNG Technology Consulting GmbH, as a game mode in their Elevation of Privilege game: https://github.com/TNG/elevation-of-privilege. 
-- The game can be purchased in print at Agile Stationery: https://agilestationery.com/collections/threat-modeling/products/elevation-of-machine-learning-security-card-game
+- The game can be purchased in print at [CyberSec Games](https://cybersecgames.com/collections/threat-modeling-games/products/elevation-of-machine-learning-security-card-game).
 - Download the decks and print [the deck](./game/elevation-of-MLsec-cards.pdf) yourself, alternatively hire a printing company using the [print-ready deck](./game/print-ready/elevation-of-MLsec-Cards-71x121mm-June2024-v2-bleeds-edges.pdf).
 
 ## Audience
